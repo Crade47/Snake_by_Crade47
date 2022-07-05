@@ -1,7 +1,7 @@
 
 # **Snake** 
-This is my take on the classic game snake. 
-I used the SFML Library and implemented several data structures and algorithms.
+### This is my take on the classic game snake. 
+### I used the SFML Library and implemented several data structures and algorithms in C++.
 
 
 
